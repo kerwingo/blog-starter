@@ -1,4 +1,4 @@
 # kerwingo.github.io
 个人博客
-https://kerwingo.github.io/
-本博客通过 Hexo 生成，部署在 GitHub Pages
+链接：https://kerwin.plus
+描述：会不定期更新一下前端学习资料，职业发展思考与探讨，欢迎订阅。
