@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{310:function(n,t,e){"use strict";e.r(t);var l={mounted:function(){}},c=e(18),component=Object(c.a)(l,(function(){this._self._c;return this._m(0)}),[function(){var n=this._self._c;return n("div",[n("input",{attrs:{type:"file",id:"file"}})])}],!1,null,null,null);t.default=component.exports}}]);
